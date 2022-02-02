@@ -1,0 +1,7 @@
+Reading pattern "ramp" chipID 16
+Reading pattern "zeros" chipID 16
+Reading pattern "ones" chipID 16
+Reading pattern "marching" chipID 16
+Reading pattern "checker board" chipID 16
+Reading pattern "prime" chipID 16
+Done. FIFO test prime passed.
